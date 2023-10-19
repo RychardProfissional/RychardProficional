@@ -10,3 +10,5 @@ Mas esta não é a unica tecnologia que tenho conhecimento, aqui estão algumas 
 - Mysql
 
 No momento o que mais busco é aumetar meu conhecimento, então estarei de olho em qualquer forma de adquirir conhecimento que aparecer!
+
+![status github](https://github-readme-stats.vercel.app/api?username=rychardproficional&show_icons=true&theme=dracula)
