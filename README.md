@@ -11,4 +11,7 @@ Mas esta não é a unica tecnologia que tenho conhecimento, aqui estão algumas 
 
 No momento o que mais busco é aumetar meu conhecimento, então estarei de olho em qualquer forma de adquirir conhecimento que aparecer!
 
-![status github](https://github-readme-stats.vercel.app/api?username=rychardproficional&show_icons=true&theme=dracula)
+<div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rychardproficional&theme=midnight-purple" alt="status github"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardproficional&theme=midnight-purple" alt="linguagem mais usadas nos repositorios do github"/>
+</div>
